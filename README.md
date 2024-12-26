@@ -91,8 +91,7 @@ The architecture includes:
 
 ### Terminal Commands
 
-Detailed commands for each step of the deployment process can be found in the
-[deployment document](path/to/deployment-commands.txt).
+Detailed commands for each step can be found below.
 
 ### S3 Bucket Policy
 
@@ -111,7 +110,7 @@ Detailed commands for each step of the deployment process can be found in the
 }
 ```
 
-### IAM Permissions policies
+### IAM Role policy
 
 Provides full access to all buckets via the AWS Management Console.
 
